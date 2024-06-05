@@ -1,2 +1,2 @@
 hello Git and github world
-
+new Store database creation is in progress
